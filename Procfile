@@ -1,1 +1,1 @@
-web: gunicorn heroku-sdl:app
+web: gunicorn app:app
